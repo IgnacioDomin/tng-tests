@@ -21,7 +21,7 @@ Questions? Ask Manuel (@mpeuster).
 | NSID1V_cirros_SONATA | A generic service package with a simple cirros VNF for Sonata |
 | NSID1V_osm_charms | A generic service package for OSM with one VNF that has JUJU charms |
 | NSID1V_hybrid | Hybrid package containing a service and a test for Sonata |
-| NSIMPSP |  |
+| NSIMPSP | Immersive Media Pilot Package with three CNFs |
 | NSINDP1C |  |
 | NSTD | A hybrid package with NS and test |
 
@@ -33,7 +33,7 @@ Questions? Ask Manuel (@mpeuster).
 |---|---|
 | TSTGNRPRB |  |
 | TSTIMHLS |  |
-| TSTIMPSP |  |
+| TSTIMPSP | Immersive Media Pilot performance test package with five probes |
 | TSTINDP |  |
 | TSTPING |  |
 | TSTPING_SONATA |  |
